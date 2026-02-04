@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/edition-Professional-yellow?style=flat" alt="edition"/></a>
 <a href="#"><img src="https://img.shields.io/badge/system-macOS-blue?style=flat" alt="system"/></a>
 
-<img src="https://infinitekind.com/images/moneydance.png" width="824" alt="Interface"/>
+<img src="https://infinitekind.com/images/moneydance.png" width="500" alt="Interface"/>
 
 </div>
 
